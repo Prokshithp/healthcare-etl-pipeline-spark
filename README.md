@@ -33,4 +33,3 @@ Hospital Readmission Prediction (Synthetic Dataset) – Kaggle
   - Readmission rate by discharge destination
 - Prepare datasets for BI and reporting use cases
 
-## Repository Structure
